@@ -1,0 +1,1 @@
+i used python flask as abackend and cretaed a model fro sample data and trained on it for predictions useda formula and then frontedn react for displaying uiux and conncetd backedn to react using cors 
